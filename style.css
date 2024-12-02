@@ -3,3 +3,7 @@ color:aliceblue;/*cor a fonte*/
 background-color: #7fffd4(20, 221, 227);/*cor de fundo*/
 font-size: 24px;/*amanho da onte*/
 }
+header{ 
+
+   border: solid 2px rgb(116, 165, 221); 
+}
